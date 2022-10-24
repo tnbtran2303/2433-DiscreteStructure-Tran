@@ -1,0 +1,12 @@
+Name: Ngoc Tran
+CMPS 2433 - Professor Stringfellow
+Program Assignment 2: Max Cycle-Length of Sequences
+
+         m                   n                 max                 sum
+         1                  10                  20                 339
+       100                 200                 125              105976
+       201                 210                  89              102710
+       900                1000                 174             4444724
+      1000                1020                 156              189585
+        75                  80                  36                4384
+         1                  50                 112              101440
